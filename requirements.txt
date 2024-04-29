@@ -1,0 +1,9 @@
+# pyscreeze==0.1.28
+# pyautogui==0.10.0
+pyscreeze
+pyautogui
+PyQt5
+pywin32
+
+# Windows EXE Builder $pyinstaller --onefile boot.py
+pyinstaller
